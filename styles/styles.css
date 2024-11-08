@@ -174,7 +174,7 @@ footer {
 }
 
 footer img {
-    width: 49vw;
+    width: 50vw;
     height: 50vh;
 }
 
@@ -182,7 +182,7 @@ footer img {
     background: url(../img/adulte_dance.jpg);
     background-position: top;
     background-size: cover;
-    width: 50vw;
+    width: 49vw;
     height: 50vh;
 }
 
@@ -190,7 +190,7 @@ footer img {
     background: url(../img/spectacle.jpg);
     background-position: top;
     background-size: cover;
-    width: 50vw;
+    width: 49vw;
     height: 50vh;
 }
 
@@ -212,7 +212,7 @@ footer div {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 50vw;
+    width: 49vw;
     height: 50vh;
 }
 
@@ -240,7 +240,7 @@ footer div {
     nav ul {
         padding-right: 0;
         padding-top: 30px;
-        width: 300px;
+        width: 350px;
     }
 
     .danceWithUs {
